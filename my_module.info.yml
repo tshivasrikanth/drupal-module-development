@@ -1,0 +1,6 @@
+name: My Module
+description: Learn how to create a drupal module
+package: "Learnings"
+
+type: module
+core_version_requirement: ^10
